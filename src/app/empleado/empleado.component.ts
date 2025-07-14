@@ -9,4 +9,13 @@ import { Component } from '@angular/core';
 })
 export class EmpleadoComponent {
 
+  nombre= "juan";
+  apellido= "perez";
+  edad= 15;
+  // empresa= "Tech Solutions";
+
+  // llamarEmpresa(value: string){
+
+  // }
+
 }
